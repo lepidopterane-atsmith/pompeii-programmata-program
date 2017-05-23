@@ -6,11 +6,11 @@ by Sarah Abowitz/Lepidopterane
 
 Table of Contents
 
-Changelog
-What is P3?
-How do I operate P3?
-Findings
-Sources Consulted
+- Changelog
+- What is P3?
+- How do I operate P3?
+- Findings
+- Sources Consulted
 
 Changelog - I have set improvements in mind, but please let me know how else to improve P3!
 
@@ -24,8 +24,8 @@ The code base for this was made for a simple GUI lab by my CSC 212 professor, re
 
 How do I operate P3?
 
-> Compile all Java classes in the command line.
-> Run P3.java.
+- Compile all Java classes in the command line.
+- Run P3.java.
 
 - Click Political Ties or Religious Ties to view graphs.
 - Click Info Mode, and now you can click on any node to see who that represents. This state does not carry over between switching graphs.
